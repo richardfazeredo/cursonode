@@ -1,0 +1,35 @@
+{
+  "name": "curso_nodejs",
+  "version": "1.0.0",
+  "description": "Repositorio do curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardfazeredo/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "yarn",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Richard de Freitas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardfazeredo/cursonode/issues"
+  },
+  "homepage": "https://github.com/richardfazeredo/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
